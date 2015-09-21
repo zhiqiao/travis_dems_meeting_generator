@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+<head>
+	<meta name="google-site-verification" content="Ohj5DoSBKqYgippoyZpGkwpfMH61PZO3BfJGK8EKMLc" />
+	<meta name="google-site-verification" content="Ohj5DoSBKqYgippoyZpGkwpfMH61PZO3BfJGK8EKMLc" />
+	<meta name="google-site-verification" content="ztGZhbmPUJTqCenVb3J55BITcqoDhkJM29n60cRCEfY" />
+	<meta charset="UTF-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<![endif]-->
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<title>Democratic Clubs | TCDP</title>
+		<link rel="icon" href="http://traviscountydemocrats.org/wp-content/uploads/2013/12/TCDP-favicon.jpg" type="image/x-icon" />
+<!--iOS/android/handheld specific -->
+<link rel="apple-touch-icon" href="http://www.traviscountydemocrats.org/wp-content/themes/glamour/apple-touch-icon.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link rel="pingback" href="http://www.traviscountydemocrats.org/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="TCDP &raquo; Feed" href="http://www.traviscountydemocrats.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TCDP &raquo; Comments Feed" href="http://www.traviscountydemocrats.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TCDP &raquo; Democratic Clubs Comments Feed" href="http://www.traviscountydemocrats.org/people/democratic-clubs/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.traviscountydemocrats.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twoclick-social-media-buttons-css'  href='http://www.traviscountydemocrats.org/wp-content/plugins/2-click-socialmedia-buttons/css/socialshareprivacy-min.css?ver=1.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fpf-css'  href='http://www.traviscountydemocrats.org/wp-content/plugins/facebook-photo-fetcher/style.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.traviscountydemocrats.org/wp-content/plugins/facebook-photo-fetcher/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='nextend_fb_connect_stylesheet-css'  href='http://www.traviscountydemocrats.org/wp-content/plugins/nextend-facebook-connect/buttons/facebook-btn.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jfb-css'  href='http://www.traviscountydemocrats.org/wp-content/plugins/wp-fb-autoconnect/style.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-gallery-css'  href='http://www.traviscountydemocrats.org/wp-content/plugins/youtube-channel-gallery/styles.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.magnific-popup-css'  href='http://www.traviscountydemocrats.org/wp-content/plugins/youtube-channel-gallery/magnific-popup.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.traviscountydemocrats.org/wp-content/themes/glamour/css/font-awesome.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ie7-fontawesome-css'  href='http://www.traviscountydemocrats.org/wp-content/themes/glamour/css/font-awesome-ie7.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='http://www.traviscountydemocrats.org/wp-content/themes/glamour/style.css?ver=4.3.1' type='text/css' media='all' />
+<style id='stylesheet-inline-css' type='text/css'>
+
+		body {background-color:#2c70c2; }
+		body {background-image: url(http://www.traviscountydemocrats.org/wp-content/themes/glamour/images/nobg.png);}
+		.widget h3, .postauthor h5, .copyrights a, .textwidget a, #logo a, .pnavigation2 a, .sidebar.c-4-12 a:hover, .copyrights a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .related-posts a:hover, .reply a, .title a:hover, .post-info a:hover,.comm, #tabber .inside li a:hover, .fn a, .home .post-content a:hover, .archive .post-content a:hover, h2.post-heading span, h2.post-heading-span span, a, a:hover { color:#2c70c2; }	
+		.flex-caption, .readMore a, .classtitle, #commentform input#submit, .mts-subscribe input[type='submit'], #move-to-top:hover, #searchform .sbutton, #navigation ul .current-menu-item a, #navigation ul li:hover, .pagination a, #navigation ul .sfHover a, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce .bypostauthor:after, #cancel-comment-reply-link, #navigation ul li li, .sfHover a, .contactform #submit, #tabber ul.tabs li a.selected, .tagcloud a, #searchsubmit { background-color:#2c70c2; color: #fff!important; }
+		.flex-control-thumbs .flex-active, .flex-control-thumbs img:hover { outline:2px solid #2c70c2}
+		#tabber ul.tabs li a.selected { border-color:#2c70c2}
+		 .secondary-navigation, body > footer, .copyrights { border-top: 0; border-bottom: 0; } 
+		
+		.shareit2 { top: 282px; left: auto; z-index: 0; margin: 0 0 0 -118px; width: 90px; position: fixed; padding: 5px; padding-right: 0; border: none; background: #FFF; } .shareit2 .share-item {margin: 2px;}
+		.bypostauthor .comment-content { background: #FAFAFA; }
+		.bypostauthor:after { content: "Author"; position: absolute; right: -1px; top: -1px; padding: 1px 10px; background: #818181; color: #FFF; }
+		
+		
+		
+		
+		.woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button { background:#2c70c2; color: #fff!important; }
+		.woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus { background:#2c70c2; color: #fff!important; }
+			
+</style>
+<link rel='stylesheet' id='responsive-css'  href='http://www.traviscountydemocrats.org/wp-content/themes/glamour/css/responsive.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-content/plugins/google-calendar-widget/wiky.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-content/plugins/google-calendar-widget/date.js?ver=alpha-1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ko_calendar_loc = {"all_day":"All Day","all_day_event":"All Day Event"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-content/plugins/google-calendar-widget/ko-calendar.js?ver=4.3.1'></script>
+<script type='text/javascript' src='//apis.google.com/js/client.js?onload=ko_calendar_google_init&#038;ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-content/plugins/facebook-photo-fetcher/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-content/themes/glamour/js/customscript.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://html5shim.googlecode.com/svn/trunk/html5.js?ver=4.3.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.traviscountydemocrats.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.traviscountydemocrats.org/wp-includes/wlwmanifest.xml" /> 
+<!--Theme by MyThemeShop.com-->
+<link rel='canonical' href='http://www.traviscountydemocrats.org/people/democratic-clubs/' />
+<link rel='shortlink' href='http://www.traviscountydemocrats.org/?p=207' />
+
+<!-- OpenGraph Tags (added by 2-Click Social Media Buttons) -->
+<meta property="og:site_name" content="TCDP"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:locale:alternate" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Democratic Clubs"/>
+<meta property="og:url" content="http://www.traviscountydemocrats.org/people/democratic-clubs/"/>
+<meta property="og:description" content="Austin Enviro Dems:
+First Friday of the month, 12:00 PM
+El Mercado South, 1302 South 1st Street
+Contact: Ted Siff or 512-657-5414
+Club Bylaws
+
+Austin Tejano Democrats:
+Second Wednesday of the month, 6:00 PM
+El Gallo Restaurant 2910 South Congress
+Contact: Cynthia Valadez-Mata
+
+Austin Young Dems
+Second Tuesday of the month, 6:30PM
+Wright Bros. Brew and Brew
+Contact: Chaille Jolink ..."/>
+<!-- /OpenGraph Tags -->
+
+<link type="text/css" rel="stylesheet" href="http://www.traviscountydemocrats.org/wp-content/plugins/google-calendar-widget/ko-calendar.css" /><link rel="alternate" hreflang="ar" href="/ar/&Oslash;&sect;&Ugrave;„&Ugrave;†&Oslash;&sect;&Oslash;&sup3;/&Oslash;&pound;&Ugrave;†&Oslash;&macr;&Ugrave;Š&Oslash;&copy;-&Oslash;&sect;&Ugrave;„&Oslash;&macr;&Ugrave;Š&Ugrave;…&Ugrave;‚&Oslash;&plusmn;&Oslash;&sect;&Oslash;&middot;&Ugrave;Š&Oslash;&copy;/"/><link rel="alternate" hreflang="zh" href="/zh/&auml;&ordm;&ordm;/&aelig;&deg;‘&auml;&cedil;&raquo;&auml;&iquest;&plusmn;&auml;&sup1;&eacute;ƒ&uml;/"/><link rel="alternate" hreflang="it" href="/it/persone/club-democratici/"/><link rel="alternate" hreflang="es" href="/es/personas/clubes-democr&Atilde;&iexcl;ticos/"/><script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-47433859-1']);
+	_gaq.push(['_setDomainName', 'traviscountydemocrats.org']);
+	_gaq.push(['_setAllowlinker', 'true']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:700|Open+Sans:600|Open+Sans:300" rel="stylesheet" type="text/css">
+<style type="text/css">
+h1{ font-family: "Open Sans";font-weight: 700;font-size: 28px;color: #0a0a0a; }
+h2{ font-family: "Open Sans";font-weight: 700;font-size: 24px;color: #0a0a0a; }
+h3{ font-family: "Open Sans";font-weight: 700;font-size: 22px;color: #0a0a0a; }
+h4{ font-family: "Open Sans";font-weight: 700;font-size: 20px;color: #0a0a0a; }
+h5{ font-family: "Open Sans";font-weight: 700;font-size: 18px;color: #0a0a0a; }
+h6{ font-family: "Open Sans";font-weight: 700;font-size: 16px;color: #0a0a0a; }
+body{ font-family: "Open Sans";font-weight: 600;font-size: 14px;color: #000000; }
+#navigation ul li a{ font-family: "Open Sans";font-weight: 300;font-size: 15px;color: #0e3b93; }
+</style>
+<style type="text/css">
+#menu-item-46 a{
+    background: #2c70c2;
+    color: #FFFFFF;
+}
+
+#navigation #menu-item-46 a {
+    color: #FFFFFF;
+}
+
+</style>
+
+<meta name="translation-stats" content='{"total_phrases":null,"translated_phrases":null,"human_translated_phrases":null,"hidden_phrases":null,"hidden_translated_phrases":null,"hidden_translateable_phrases":null,"meta_phrases":null,"meta_translated_phrases":null,"time":null}'/></head>
+<body id ="blog" class="page page-id-207 page-child parent-pageid-36 page-template-default main" itemscope itemtype="http://schema.org/WebPage">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-47353831-1', 'traviscountydemocrats.org');
+  ga('send', 'pageview');
+ 
+</script>
+	<header class="main-header">
+		<div id="header">
+			<div class="content">
+							<div class="logo-wrap">
+																		  <h2 id="logo" class="image-logo">
+									<a href="http://www.traviscountydemocrats.org"><img src="http://traviscountydemocrats.org/wp-content/uploads/2013/12/TCDP-Website-Logo.jpg" alt="TCDP"></a>
+								</h2><!-- END #logo -->
+															</div>
+				<div class="widget-header"><a href="https://act.myngp.com/Forms/2812909785023121408" id="" target="_blank" class="widget_sp_image-image-link" title=""><img width="295" height="125" alt="" class="attachment-full alignright" style="max-width: 100%;" src="http://www.traviscountydemocrats.org/wp-content/uploads/2014/01/signup.gif" /></a></div><div class="widget-header">			<div class="textwidget"><center>Travis County Democratic Party<br />
+1311 B E. 6th <br />
+Austin, Tx 78702 <br />
+(512) 477-7500 <br /> or <a href="mailto:info@TravisCountyDemocrats.org">info@TravisCountyDemocrats.org</a></center></div>
+		</div>  
+								</div>
+						<div class="secondary-navigation">
+							<nav id="navigation" class="clearfix">
+											<ul id="menu-menu-1" class="menu clearfix"><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32"><a title="Home" href="http://www.traviscountydemocrats.org/">Home</a></li>
+<li id="menu-item-1443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1443"><a title="About">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a title="Travis County Democratic Party Mission Statement" href="http://www.traviscountydemocrats.org/about/tcdp-mission/">Mission Statement</a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a title="TCDP Offfice" href="http://www.traviscountydemocrats.org/about/tcdp-office/">TCDP Office</a></li>
+</ul>
+</li>
+<li id="menu-item-1481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1481"><a title="Volunteer" href="http://traviscountydemocrats.org/get-involved/">Volunteer</a>
+<ul class="sub-menu">
+	<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a title="Sign up to help!" href="http://www.traviscountydemocrats.org/get-involved/">Sign up to help!</a></li>
+	<li id="menu-item-17585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17585"><a href="http://www.traviscountydemocrats.org/become-a-deputy-voter-registrar/">Become a Deputy Voter Registrar!</a></li>
+	<li id="menu-item-15954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15954"><a href="http://www.traviscountydemocrats.org/message-strategy-and-rapid-response/">Message Strategy and Rapid Response</a></li>
+	<li id="menu-item-14926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14926"><a href="http://www.traviscountydemocrats.org/city-hall-watch/">City Hall Watch</a></li>
+	<li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a title="Your Precinct needs you!" href="http://www.traviscountydemocrats.org/get-involved/your-precinct-needs-you/">Your Precinct needs you!</a></li>
+	<li id="menu-item-1482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1482"><a href="https://www.facebook.com/TravisCountyDemocraticParty">Become a fan on Facebook</a></li>
+	<li id="menu-item-1483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1483"><a href="https://twitter.com/tcdp">Follow @TCDP on Twitter</a></li>
+</ul>
+</li>
+<li id="menu-item-1416" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1416"><a title="People">People</a>
+<ul class="sub-menu">
+	<li id="menu-item-382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-382"><a title="Our Elected Officials" href="http://www.traviscountydemocrats.org/people/our-elected-officials/">Our Elected Officials</a>
+	<ul class="sub-menu">
+		<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a title="U.S. House of Representatives" href="http://www.traviscountydemocrats.org/people/our-elected-officials/u-s-house-of-representatives/">U.S. House of Representatives</a></li>
+		<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a title="Texas Senate" href="http://www.traviscountydemocrats.org/people/our-elected-officials/texas-senate/">Texas Senate</a></li>
+		<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a title="Texas House of Representatives" href="http://www.traviscountydemocrats.org/people/our-elected-officials/texas-house-of-representatives/">Texas House of Representatives</a></li>
+		<li id="menu-item-381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381"><a title="Commissioners Court" href="http://www.traviscountydemocrats.org/people/our-elected-officials/commissioners-court/">Commissioners Court</a></li>
+		<li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-378"><a title="District Courts" href="http://www.traviscountydemocrats.org/people/our-elected-officials/district-courts/">District Courts</a></li>
+		<li id="menu-item-19487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19487"><a href="http://www.traviscountydemocrats.org/people/our-elected-officials/county-court-at-law/">County Court at Law</a></li>
+		<li id="menu-item-380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380"><a title="County Officers, Constables, &#038; JPs" href="http://www.traviscountydemocrats.org/people/our-elected-officials/county-officers-constables-jps/">County Officers, Constables, &#038; JPs</a></li>
+	</ul>
+</li>
+	<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a title="County Precinct Chairs" href="http://www.traviscountydemocrats.org/people/county-precinct-chairs/">County Precinct Chairs</a></li>
+	<li id="menu-item-1608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1608"><a href="http://traviscountydemocrats.org/2013/12/14/finance-council/">Finance Council</a></li>
+	<li id="menu-item-1609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1609"><a href="http://traviscountydemocrats.org/2013/12/14/sustaining-members/">Sustaining Members</a></li>
+	<li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-207 current_page_item menu-item-383"><a title="Democratic Clubs" href="http://www.traviscountydemocrats.org/people/democratic-clubs/">Democratic Clubs</a></li>
+</ul>
+</li>
+<li id="menu-item-2822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2822"><a title="Resources">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388"><a title="Resources for Precinct Chairs" href="http://www.traviscountydemocrats.org/resources/resources-for-precinct-chairs/">Resources for Precinct Chairs</a></li>
+	<li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-386"><a title="Register to Vote" href="http://www.traviscountydemocrats.org/resources/register-to-vote/">Register to Vote</a>
+	<ul class="sub-menu">
+		<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a title="Link" href="http://www.traviscountydemocrats.org/resources/links/">Links</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a title="Calendar" href="http://www.traviscountydemocrats.org/calendar/">Calendar</a></li>
+<li id="menu-item-16729" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16729"><a title="Donate">Donate</a>
+<ul class="sub-menu">
+	<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="http://www.traviscountydemocrats.org/donate-2/donate/">Become A Sustaining Member</a></li>
+	<li id="menu-item-16717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16717"><a href="http://www.traviscountydemocrats.org/donate-2/donate/contribute-to-tcdp/">Contribute to TCDP</a></li>
+</ul>
+</li>
+</ul>										<a href="#" id="pull">Menu</a>  
+				</nav>
+			</div>              
+		</div><!--#header-->     
+	</header>
+	<div class="main-container"><div id="page" class="single">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-47353831-1', 'traviscountydemocrats.org');
+  ga('send', 'pageview');
+ 
+</script>
+
+	<article class="article">
+		<div id="content_box" >
+							<div id="post-207" class="g post post-207 page type-page status-publish hentry">
+					<div class="single_page">
+													<div class="breadcrumb" itemprop="breadcrumb"><a href="http://www.traviscountydemocrats.org" rel="nofollow"><i class="icon-home"></i>&nbsp;Home</a>&nbsp;>&nbsp;Democratic Clubs</div>
+												<header>
+							<h1 class="title">Democratic Clubs</h1>
+						</header>
+						<div class="post-content box mark-links">
+							<p><a href="http://austinenvironmentaldems.org/">Austin Enviro Dems:</a><span style="text-decoration: underline;"><br />
+</span>First Friday of the month, 12:00 PM<br />
+El Mercado South, 1302 South 1st Street<br />
+Contact: <a href="mailto:austinenvirodems@gmail.com ">Ted Siff</a> or 512-657-5414<br />
+<a href="https://docs.google.com/file/d/1iy-vHlzR-aJ05x_J98XppV3V7FHr62_bL_sVNwjBI76zagIZPbc6MS2yzsuD/edit?usp=sharing">Club Bylaws</a></p>
+<p><a href="http://www.tinyurl.com/austintejanodemocrats">Austin Tejano Democrats:</a><br />
+Second Wednesday of the month, 6:00 PM<br />
+El Gallo Restaurant 2910 South Congress<br />
+Contact: <a href="mailto:cvaladezmata@yahoo.com">Cynthia Valadez-Mata</a></p>
+<p><a href="https://www.facebook.com/AustinYoungDemocrats">Austin Young Dems<br />
+</a>Second Tuesday of the month, 6:30PM<br />
+Wright Bros. Brew and Brew<br />
+Contact: <a href="mailto:cmjolink@utexas.edu">Chaille Jolink</a></p>
+<p><a href="http://www.blackaustindemocrats.org/">Black Austin Democrats:</a><br />
+Third Thursday of the month, 6:00 PM<br />
+Precinct One Constable Office<br />
+4717 Heflin Lane<br />
+Contact:<a href="mailto: james.nortey@gmail.com"> James Nortey</a></p>
+<p><a href="http://www.cadw.org/">Capital Area Democratic Women:</a><br />
+Second Thursday of the month, 11:30 AM: Networking, 12:00 PM: Lunch<br />
+Joe&#8217;s Crab Shack, 600 E Riveside<br />
+Contact: <a href="mailto:katie.naranjo@gmail.com">Katie Naranjo</a></p>
+<p><a href="http://www.capdaustintx.org/CAPDaustintx.org/CAPD_Home.html" target="_blank">Capital Area Progressive Democrats:</a><br />
+First Tuesday of the month, 5:30 PM<br />
+Terrazas Library, 1105 E Cesar Chavez<br />
+Contact: <a href="mailto:craig1787@gmail.com">Ken Craig </a></p>
+<p><a href="https://www.facebook.com/CentralAustinDemocrats">Central Austin Democrats:</a><br />
+Third Wednesday of the month (except December), 6:15 PM<br />
+New World Deli, 4101 Guadalupe #100<br />
+Contact: Nick Chu or 281.646.9641</p>
+<p>Central Texas Democratic Forum:<br />
+Monthly Lunch Meetings, 11:45 AM<br />
+Contact: <a href="mailto:cherring@herring-irwin.com">Chuck Herring</a> or 512.320.0665</p>
+<p><a href="http://www.circlecareademocrats.org/" target="_blank">Circle C Area Democrats:</a><br />
+Second Monday of the month, 6:15 PM<br />
+Santa Rita Cantina &#8211; 5900 W. Slaughter at Escarpment<br />
+Contact: <a href="mailto:pennymason1@att.net">Penny Mason</a></p>
+<p><a href="http://www.laketravisdemocrats.org" target="_blank">Lake Travis Democrats:</a><br />
+Second Tuesday of the month, 6:30 PM<br />
+Lake Travis Community Library -1938 Lohmans Crossing Lakeway, TX 78734 (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=105+Cross+Creek+Rd.,+austin,+tx&amp;sll=30.379521,-97.740161&amp;sspn=0.007071,0.016694&amp;ie=UTF8&amp;hq=&amp;hnear=105+Cross+Creek,+Lakeway,+Travis,+Texas+78734&amp;z=16" target="_blank">MAP</a>)<br />
+Contact: Bob Sheldon at 512.507.5830</p>
+<p><a href="http://www.facebook.com/#!/groups/liberal.austin.democrats/">Liberal Austin Democrats:</a><br />
+First Wednesday of the month 2013, 6:30 PM First Monday of the month beginning 2014<br />
+The Tavern 922 W 12th St<br />
+Contact: <a href="mailto:david@davidthomasphotography.com">David Thomas </a></p>
+<p><a href="http://www.nxnwdemocrats.org/" target="_blank">North by Northwest Democrats:</a><br />
+Third Monday of the month, 6:15 PM<br />
+Sherlocks, 9012 Research Blvd (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=9012+Research+Blvd,+austin,+tx&amp;sll=30.449294,-97.65272&amp;sspn=0.007066,0.016694&amp;ie=UTF8&amp;hq=&amp;hnear=9012+Research+Blvd,+Austin,+Travis,+Texas+78759&amp;z=16" target="_blank">MAP</a>)<br />
+Contact:<a href="mailto:gregoryhitt@austin.rr.com">Greg Hitt </a><br />
+<a href="https://docs.google.com/document/d/1Gy4ZDUEsbQHCCFZ0I-bgj6yAlJmKqevzhrbLwzi_GQ4/edit?usp=sharing">Club Bylaws</a></p>
+<p>North Shore Democrats:<br />
+Quarterly Potlucks, 4:00 PM on 4/15/12, 7/15/12 and 10/21/12.<br />
+Lago Vista Activity Center &#8211; Bluebonnet Room (<a href="http://maps.google.com/maps?q=2601+American+Dr,+Lago+Vista,+TX+78645&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=38.554089,81.474609&amp;hnear=2601+American+Dr,+Lago+Vista,+Texas+78645&amp;t=m&amp;z=16">MAP</a>)<br />
+Contact: <a href="mailto:bobsybert@att.net">Bob Sybert</a> or 512.267.6481</p>
+<p><a href="http://www.netcodems.org" target="_blank">Northeast Travis County Democrats:</a><br />
+Second Saturday of the month, 10AM.<br />
+Morelia&#8217;s Mexican Grill, 18900 Limestone Commercial Dr. (<a href="https://www.google.com/maps/place/Morelia+Mexican+Grill,+Pflugerville/@30.3077609,-97.7534014,11z/data=!4m5!1m2!2m1!1smorelia+mexican+grill!3m1!1s0x8644c569e831a8b9:0x26d68c34bc001bfb">MAP</a>)<br />
+Contact: <a href="mailto:tcymtz@gmail.com" target="_blank">Tracy Martinez</a></p>
+<p><a href="http://www.southaustindems.org" target="_blank">South Austin Democrats:</a><br />
+Second Tuesday of the month, 5:30 PM Eat and socialize, 6 PM Program<br />
+El Gallo, 2910 South Congress Ave<br />
+Contact: <a href="mailto:ava1227@prodigy.net">Alicia Del Rio </a><br />
+<a href="https://docs.google.com/document/d/1n3K6Skncq7M5KwAq-0uBKwJW2hZnBHWoD_r1r3n7k1Q/edit">Club Bylaws</a></p>
+<p><a href="https://www.facebook.com/pages/South-Travis-United-Democrats/106691846087726" target="_blank">South Travis United Democrats</a><br />
+Third Tuesday of the month, 6:00 PM<br />
+Brick Oven Restaurant on Brodie Ln. (<a href="&lt;http://maps.google.com/maps/place?ftid=0x865b4c6c82e2aeb1:0x995e0f1089b6fc26&amp;q=9911+Brodie+Lane,+Austin,+TX&amp;hl=en&amp;sll=30.183771,-97.848229&amp;sspn=0.006295,0.006295&amp;ie=UTF8&amp;ll=30.190022,-97.860868&amp;spn=0.000019,0.000021&amp;t=h&amp;z=16&amp;vpsrc=0&gt;" target="_blank">MAP</a>)<br />
+Contact: <a href="mailto:smvoytowich@austin.rr.com">Steve Voytowich</a></p>
+<p><a href="https://www.facebook.com/stedsdemocrats" target="_blank">St. Edward&#8217;s University Democrats:</a><br />
+Meeting every Wednesday at 8:00 PM<br />
+Moody Hall, Room 200</p>
+<p><a href="http://www.stonewallaustin.org" target="_blank">Stonewall Democrats:</a><br />
+Second Wednesday of the month, 6:00 PM<br />
+Location Cafe Express 3418 N Lamar<br />
+Contact: <a href="mailto:sgoodfriend@gmail.com">Sarah Goodfriend</a><br />
+<a href="http://www.austinasiandems.com/" target="_blank">Travis County Asian American Democrats:</a><br />
+Last Tuesday of the Month, 6:30 PM Eat, Drink, Socialize; 7:00 PM Meeting<br />
+Satay, 3202 W Anderson Ln<br />
+Contact: <a href="mailto:ramey.ko@gmail.com">Ramey Ko</a></p>
+<p><a href="http://www.udems.org" target="_blank">University Democrats:<br />
+</a>Forum every Wednesday during the Fall and Spring semesters, 8:00 PM<br />
+Gearing Building, Room 105 &#8211; on the UT Campus<br />
+Contact: <a href="president@UDems.org"> University Democrats </a></p>
+<p><a href="http://www.westaustindemocrats.org" target="_blank">West Austin Democrats:</a><br />
+First Wednesday of the month, 6:45 PM<br />
+Howson Branch Library, 2500 Exposition Blvd (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2500+Exposition+Blvd,+austin,+tx&amp;sll=30.318062,-97.817116&amp;sspn=0.113213,0.267105&amp;ie=UTF8&amp;hq=&amp;hnear=2500+Exposition+Blvd,+Austin,+Travis,+Texas+78703&amp;z=16" target="_blank">MAP</a>)<br />
+Contact: <a href="mailto:ramueller@sbcglobal.net">Aaron Mueller</a></p>
+<p>Williamson/Travis County Mexican American Democrats:<br />
+Contact: <a href="mailto:mexamdem2000@hotmail.com">Fidel Acevedo</a></p>
+<p>YellerDawg / Saturday Sages Democrats:<br />
+Every Saturday, 11:00 AM<br />
+Tres Amigos Restaurant, 1801 S. Capitol of Texas Hwy (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1801+S.+Capitol+of+Texas+Hwy,+austin,+tx&amp;sll=37.0625,-95.677068&amp;sspn=26.674078,68.378906&amp;ie=UTF8&amp;hq=1801+S.+Capitol+of+Texas+Hwy,&amp;hnear=Austin,+TX&amp;ll=30.318062,-97.817116&amp;spn=0.113213,0.267105&amp;z=12&amp;iwloc=A" target="_blank">MAP</a>)<br />
+Contact: <a href="mailto:bmcafee@austin.rr.com">Bill McAfee</a></p>
+													</div><!--.post-content box mark-links-->
+					</div>
+				</div>
+				<!-- You can start editing here. -->
+<!-- If comments are closed. -->
+<p class="nocomments"></p>
+
+					</div>
+	</article>
+	<aside class="sidebar c-4-12">
+	<div id="sidebars" class="g">
+		<div class="sidebar">
+			<ul class="sidebar_list">
+				<li id="mts_widget_recent_tweets-2" class="widget widget-sidebar widget_mts_widget_recent_tweets"><h3><span>TCDP Tweets</span></h3><div class="mts_recent_tweets tweets"><ul><li><span>GOP debate watch party at Scholz! Come join us! <a href="https://twitter.com/search?q=txlege" title="Search #txlege"  target="_blank"  >#txlege</a> <a href="https://twitter.com/search?q=atx" title="Search #atx"  target="_blank"  >#atx</a> <a href="https://twitter.com/search?q=cnndebate" title="Search #cnndebate"  target="_blank"  >#cnndebate</a> <a href="http://t.co/49UZNcJ2bL" title="http://t.co/49UZNcJ2bL"  target="_blank"  >http://t.co/49UZNcJ2bL</a></span><br /><a class="twitter_time" target="_blank" href="http://twitter.com/@TCDP/statuses/644301092998615040">20 hours ago</a></li><li><span>Join us at Scholz Garten at 7 for the 2nd GOP debate and Buzzword Bingo! <a href="https://t.co/tXl9Ia6CMn" title="https://t.co/tXl9Ia6CMn"  target="_blank"  >https://t.co/tXl9Ia6CMn</a> <a href="https://twitter.com/search?q=atx" title="Search #atx"  target="_blank"  >#atx</a> <a href="https://twitter.com/search?q=txlege" title="Search #txlege"  target="_blank"  >#txlege</a> <a href="https://twitter.com/search?q=cnndebate" title="Search #cnndebate"  target="_blank"  >#cnndebate</a></span><br /><a class="twitter_time" target="_blank" href="http://twitter.com/@TCDP/statuses/644281726269657089">21 hours ago</a></li></ul></div></li><li id="ko_calendar-2" class="widget widget-sidebar ko_calendar"><h3><span><div class="ko-calendar-widget-title" id="widget-ko_calendar-2-widget_title">Calendar</div></span></h3><div class="ko-calendar-widget-events" id="widget-ko_calendar-2-widget_events"><div class="ko-calendar-widget-loading"><img class="ko-calendar-widget-image" src="http://www.traviscountydemocrats.org/wp-content/plugins/google-calendar-widget/loading.gif" alt="Loading..."/></div></div></li>			<script type="text/javascript" defer="defer">
+				ko_calendar.loadCalendarDefered('AIzaSyCuCPgE_sgYNz0q0nxGUTrWqwwdNxwpvNU ', 'widget-ko_calendar-2-widget_title', 'widget-ko_calendar-2-widget_events', 10, false, 'traviscountydemocrats.org_m762fpckuehu3n5o2n54o2leks@group.calendar.google.com', '', '', '[STARTTIME - ][TITLE]');
+			</script>
+			<li id="facebook-like-widget-2" class="widget widget-sidebar facebook_like"><h3><span>Like us on Facebook!</span></h3>		<iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FTravisCountyDemocraticParty%3Fref%3Dhl&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=238" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height: 238px;" allowTransparency="true"></iframe>
+		</li><li id="transposh-2" class="widget widget-sidebar widget_transposh"><h3><span>Language</span></h3><span class="no_translate"><select name="lang" onchange="document.location.href=this.options[this.selectedIndex].value;"><option value="/people/democratic-clubs/" selected="selected">English</option><option value="/ar/&Oslash;&sect;&Ugrave;„&Ugrave;†&Oslash;&sect;&Oslash;&sup3;/&Oslash;&pound;&Ugrave;†&Oslash;&macr;&Ugrave;Š&Oslash;&copy;-&Oslash;&sect;&Ugrave;„&Oslash;&macr;&Ugrave;Š&Ugrave;…&Ugrave;‚&Oslash;&plusmn;&Oslash;&sect;&Oslash;&middot;&Ugrave;Š&Oslash;&copy;/">Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©</option><option value="/zh/&auml;&ordm;&ordm;/&aelig;&deg;‘&auml;&cedil;&raquo;&auml;&iquest;&plusmn;&auml;&sup1;&eacute;ƒ&uml;/">ä¸­æ–‡(ç®€ä½“)</option><option value="/it/persone/club-democratici/">Italiano</option><option value="/es/personas/clubes-democr&Atilde;&iexcl;ticos/">EspaÃ±ol</option></select><br/></span><input type="checkbox" name="tpedit" value="1"  onclick="document.location.href='/people/democratic-clubs/?tpedit=1';"/>&nbsp;Edit Translation<div id="tr_credit">by <a href="http://transposh.org/"><img height="16" width="16" src="//www.traviscountydemocrats.org/wp-content/plugins/transposh-translation-filter-for-wordpress/img/tplogo.png" style="padding:1px;border:0;box-shadow:0 0;border-radius:0" title="Transposh - translation plugin for wordpress" alt="Transposh - translation plugin for wordpress"/></a></div></li><li id="text-2" class="widget widget-sidebar widget_text"><h3><span>Sign In</span></h3>			<div class="textwidget"><a href="http://www.traviscountydemocrats.org/wp-login.php?loginFacebook=1&redirect=http://www.traviscountydemocrats.org" onclick="window.location = 'http://www.traviscountydemocrats.org/wp-login.php?loginFacebook=1&redirect='+window.location.href; return false;"><div class="new-fb-btn new-fb-1 new-fb-default-anim"><div class="new-fb-1-1"><div class="new-fb-1-1-1">CONNECT WITH</div></div></div></a>
+</div>
+		</li><li id="mts_ad_widget-2" class="widget widget-sidebar mts_ad_widget"><h3><span>Visit Our Friends</span></h3><div class="ad-125"><ul><li class="oddad"><a href="http://www.txDemocrats.org"><img src="http://img.photobucket.com/albums/v358/hellopolly/TDP-Pic_zpsa663524a.jpg" width="125" height="125" alt="" /></a></li><li class="evenad"><a href="http://www.battlegroundtexas.com"><img src="http://img.photobucket.com/albums/v358/hellopolly/BGTX-TCDP-pic_zps2b8fc03a.jpg" width="125" height="125" alt="" /></a></li><li class="oddad"><a href="http://www.burntorangereport.com"><img src="http://img.photobucket.com/albums/v358/hellopolly/BOR-TCDP-pic_zps917a85de.jpg" width="125" height="125" alt="" /></a></li><li class="evenad"><a href="http://www.dailykos.com"><img src="http://img.photobucket.com/albums/v358/hellopolly/DailyKos-TCDP-Pic_zps0e484465.jpg" width="125" height="125" alt="" /></a></li></ul></div></li><li id="text-3" class="widget widget-sidebar widget_text"><h3><span>News Around Texas</span></h3>			<div class="textwidget"><ul class="rss-aggregator"><li class="feed-item"><a target="_blank" rel="nofollow" href='http://kut.org/post/census-bureau-texas-has-highest-rate-uninsured-people-us'>Census Bureau: Texas Has Highest Rate of Uninsured People in U.S.</a><div class="wprss-feed-meta"><span class="feed-source">Source: KUT</span><span class="feed-date">Published on 2015-09-17</span></div></li><li class="feed-item"><a target="_blank" rel="nofollow" href='http://www.expressnews.com/news/local/article/Abbott-on-debate-Cruz-just-kicked-Iran-s-6511442.php?t=95a3ea84ae4b6b00f7&amp;cmpid=twitter-premium'>Abbott on debate: Cruz â€˜just kicked Iranâ€™s assâ€™</a><div class="wprss-feed-meta"><span class="feed-source">Source: Texas Tribune</span><span class="feed-date">Published on 2015-09-17</span></div></li><li class="feed-item"><a target="_blank" rel="nofollow" href='http://kut.org/post/ticket-whats-happened-so-far'>The Ticket: What&#8217;s Happened So Far</a><div class="wprss-feed-meta"><span class="feed-source">Source: KUT</span><span class="feed-date">Published on 2015-09-17</span></div></li><li class="feed-item"><a target="_blank" rel="nofollow" href='http://feedproxy.google.com/~r/BurntOrangeReport/~3/6CkO9KEpQgo/is-anyone-surprised-texas-history-of-islamophobia-led-to-a-childs-arrest'>Is Anyone Surprised Texasâ€™ History of Islamophobia Led to a Childâ€™s Arrest?</a><div class="wprss-feed-meta"><span class="feed-source">Source: Burnt Orange Report</span><span class="feed-date">Published on 2015-09-17</span></div></li><li class="feed-item"><a target="_blank" rel="nofollow" href='http://kut.org/post/plotting-future-austin-s-cemeteries'>Plotting the Future of Austinâ€™s Cemeteries</a><div class="wprss-feed-meta"><span class="feed-source">Source: KUT</span><span class="feed-date">Published on 2015-09-17</span></div></li><li class="feed-item"><a target="_blank" rel="nofollow" href='http://kut.org/post/daily-buzz-tiff-episode-3'>The Daily Buzz at TIFF, Episode 3</a><div class="wprss-feed-meta"><span class="feed-source">Source: KUT</span><span class="feed-date">Published on 2015-09-17</span></div></li></ul><div class="nav-links">    <div class="nav-previous alignleft"><a href="http://www.traviscountydemocrats.org/people/democratic-clubs/page/2/" rel="nofollow">Older posts</a></div>    <div class="nav-next alignright"></div></div></div>
+		</li><li id="search-2" class="widget widget-sidebar widget_search"><h3><span>Search</span></h3><form method="get" id="searchform" class="search-form" action="http://www.traviscountydemocrats.org" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="Search the site" onblur="if (this.value == '') {this.value = 'Search the site';}" onfocus="if (this.value == 'Search the site') {this.value = '';}" >
+		<input id="search-image" class="sbutton" type="submit" value="Search">
+	</fieldset>
+</form></li>			</ul>
+		</div>
+	</div><!--sidebars-->
+</aside>	</div><!--.page-->
+</div><!--.main-container-->
+<footer>
+	<div class="container">
+		<div class="footer-widgets">
+			<div class="f-widget f-widget-1">
+							</div>
+			<div class="f-widget f-widget-2">
+							</div>
+			<div class="f-widget f-widget-3 last">
+							</div>
+		</div><!--.footer-widgets-->
+	</div><!--.container-->
+	<div class="copyrights">
+		<!--start copyrights-->
+<div class="row" id="copyright-note">
+<span><a href="http://www.traviscountydemocrats.org/" title="Travis County Democratic Party" rel="nofollow">TCDP</a> Copyright &copy; 2015.</span>
+<div class="top"></div>
+<div class="top">Built by <a https:>Patrick McDonald</a></div>
+</div>
+<!--end copyrights-->
+	</div> 
+</footer><!--footer-->
+<link rel='stylesheet' id='colorbox-css'  href='http://www.traviscountydemocrats.org/wp-content/plugins/wp-rss-aggregator/css/colorbox.css?ver=1.4.33' type='text/css' media='all' />
+<link rel='stylesheet' id='styles-css'  href='http://www.traviscountydemocrats.org/wp-content/plugins/wp-rss-aggregator/css/styles.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-content/plugins/2-click-socialmedia-buttons/js/social_bookmarks-min.js?ver=1.6.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var t_jp = {"ajaxurl":"http:\/\/www.traviscountydemocrats.org\/wp-admin\/admin-ajax.php","plugin_url":"\/\/www.traviscountydemocrats.org\/wp-content\/plugins\/transposh-translation-filter-for-wordpress","lang":"en","olang":"en","prefix":"tr_","preferred":"1","msn":"1","google":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.traviscountydemocrats.org/wp-content/plugins/transposh-translation-filter-for-wordpress/js/transposh.js?ver=0.9.7.2'></script>
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-content/plugins/wp-rss-aggregator/js/jquery.colorbox-min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-content/plugins/wp-rss-aggregator/js/custom.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.traviscountydemocrats.org/wp-content/themes/glamour/js/modernizr.min.js?ver=4.3.1'></script>
+</body>
+</html>
+<!-- Dynamic page generated in 1.503 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-17 20:35:13 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->
